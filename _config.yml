@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Hayden Bean # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Proven leader, team player, and a graduate of Babson College. Excellent problem-solving skills, strong work ethic, and coachability. Punctual, conscientious, and courteous to customers and colleagues alike.
   <br><br>
-  Second description 
+  Email: hbean2009@gmail.com 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Phone: (781)-835-5141 
+  <br><br>
+  <a href="https://www.linkedin.com/hayden-bean/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
