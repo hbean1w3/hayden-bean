@@ -2,7 +2,7 @@
 
 ---
 
-[Machine Learning in Business](/sample_page)
+[Machine Learning in Business](/sample_page.md)
 <br><br>
 <img src="images/Screenshot 2023-08-05 130713.png?raw=true"/>
 
