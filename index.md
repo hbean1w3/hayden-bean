@@ -3,6 +3,7 @@
 ---
 
 [Machine Learning in Business](/sample_page)
+<br></br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
