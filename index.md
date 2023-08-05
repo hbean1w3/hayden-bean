@@ -4,12 +4,12 @@
 
 [Machine Learning in Business](/sample_page)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2023-08-05 130713.png"/>
 
 ---
 [Forrest Fire Prediction](/pdf/sample_presentation.pdf)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images/Screenshot 2023-08-05 130550.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
