@@ -7,7 +7,7 @@
 <img src="images/Screenshot 2023-08-05 130713.png?raw=true"/>
 
 ---
-[Forrest Fire Prediction](/pdf/sample_presentation.pdf)
+[Forrest Fire Prediction](/pdf/BIDA Final Presentation.pdf)
 <br><br>
 <img src="images/Screenshot 2023-08-05 130550.png?raw=true"/>
 
