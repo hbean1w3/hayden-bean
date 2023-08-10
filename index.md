@@ -2,12 +2,12 @@
 
 ---
 
-[Machine Learning in Business](/pdf/Final Team Project - Machine Learning.pdf)
+[Machine Learning in Business](/pdf/FinalTeamProject-MachineLearning.pdf)
 <br><br>
 <img src="images/mlgraph.png?raw=true"/>
 
 ---
-[Forrest Fire Prediction](/pdf/BIDA Final Presentation.pdf)
+[Forrest Fire Prediction](/pdf/BIDAFinalPresentation.pdf)
 <br><br>
 <img src="images/Screenshot 2023-08-05 130550.png?raw=true"/>
 
