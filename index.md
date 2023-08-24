@@ -12,8 +12,4 @@
 <img src="images/Screenshot 2023-08-05 130550.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
