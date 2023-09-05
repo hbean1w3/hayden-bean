@@ -2,7 +2,7 @@
 
 ---
 
-[Machine Learning in Business](/pdf/FinalTeamProject-Machine Learning.pdf)
+[Machine Learning in Business](/pdf/FinalTeamProject-MachineLearning.pdf)
 <br><br>
 <img src="images/mlgraph.png?raw=true"/>
 
