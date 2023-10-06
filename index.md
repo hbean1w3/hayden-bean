@@ -12,4 +12,6 @@
 <img src="images/Screenshot 2023-08-05 130550.png?raw=true"/>
 
 ---
-
+[Spotify Popularity](/pdf/)
+<br><br>
+<img src="Screenshot2023-10-06141121.png"/>
