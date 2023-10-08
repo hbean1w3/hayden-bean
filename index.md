@@ -14,4 +14,4 @@
 ---
 [Spotify Popularity](/pdf/Hayden&MayaFinalProject.html)
 <br><br>
-<img src="Screenshot2023-10-06141121.png"/>
+<img src="images/Screenshot2023-10-06141121.png"/>
